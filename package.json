@@ -1,6 +1,6 @@
 {
   "name": "citgm-bin-script",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Small package with a bin script for CITGM tests",
   "bin": {
     "citgm-bin-script": "bin.js"
