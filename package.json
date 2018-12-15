@@ -1,0 +1,17 @@
+{
+  "name": "citgm-bin-script",
+  "version": "1.0.0",
+  "description": "Small package with a bin script for CITGM tests",
+  "bin": {
+    "citgm-bin-script": "bin.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/targos/citgm-bin-script.git"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/targos/citgm-bin-script#readme"
+}
